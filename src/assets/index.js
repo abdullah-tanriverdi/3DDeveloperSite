@@ -52,7 +52,6 @@ export {
   medium,
   shooting,
   firatfusion,
-
   datastructure,
   androidservices,
 

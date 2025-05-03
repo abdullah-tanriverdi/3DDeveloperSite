@@ -180,9 +180,7 @@ import {
   ];
   
   const projects = [
-   
-
-
+    
     {
       name: "Fırat Fusion",
       
